@@ -41,7 +41,7 @@ var sys = require('util'),
 //	group small messages (client and server)
 //	probe random record type with cname
 //	move updateNotification to Element53Signal
-//	get DNS/gateway mobile/WiMAX
+//	get DNS/gateway mobile/WiMAX/LTE
 
 // Data structures
 var _id = {}; // [unique_id] -> client
